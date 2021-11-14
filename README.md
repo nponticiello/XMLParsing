@@ -1,1 +1,1 @@
-# XMLParsing
+# XMLParsing Ensure that you save the XML,DTD, and xsd file all in the same folder. This will allow the code to properly be able to find the files that it need to validate against. Once you do that you can open terminal and run the different validation code. 
