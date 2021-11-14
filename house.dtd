@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!ELEMENT house (color,livingroom,bedrooms,bathrooms,garage)>
+        <!ELEMENT color (#PCDATA)>
+        <!ELEMENT livingroom (#PCDATA)>
+        <!ELEMENT bedrooms (#PCDATA)>
+        <!ELEMENT bathrooms (#PCDATA)>
+        <!ELEMENT garage (#PCDATA)>
